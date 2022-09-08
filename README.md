@@ -1,2 +1,9 @@
 # SSDC_telegram_bot
-Telegram bot to book SSDC driving tests
+
+
+## Description
+Telegram bot to book SSDC driving lessons using Python
+
+## Modules
+- Selenium
+- python-telegram-bot
